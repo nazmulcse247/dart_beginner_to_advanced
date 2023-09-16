@@ -15,5 +15,13 @@ void main() {
 
 
   // print variable
+  print("Name: $name");
+  print("Age: $age");
+  print("Height: $height");
+  print("Married: $isMarried");
+  print("Address: $address");
+  print("Phone Number: $phoneNumber");
+  print("Weight: $weight");
+  print("Single: $isSingle");
 
 }
