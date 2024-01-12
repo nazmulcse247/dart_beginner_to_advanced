@@ -1,3 +1,9 @@
+
+/**
+* Nazmul Hoque (Android developer)
+* nazmulhoque247@gmail.com
+* */
+
 void main() {
 
   //arithmetic operator
@@ -12,7 +18,7 @@ void main() {
   int mod = a % b;
 
 
-  print("a + b = $sum \na - b = $sub \na * b = $mul \na / b = $div \na % b = $mod"); // \n is new line
+  print("a + b = $sum \na - b = $sub \na * b = $mul \na / b = $div \na % b = $mod"); // \n is new line &
 
   //unary operator
   /*In Java, there are ++ and -- operators are known as increment and decrement operators and also known as unary operators, respectively.
@@ -85,6 +91,10 @@ void main() {
 
   int mn = (m == null) ? n : m;
   print("mn: $mn");
+
+  //Type test operator
+  print("--------Example of Type test operators-------");
+
 
 
 
