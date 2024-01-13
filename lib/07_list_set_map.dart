@@ -1,3 +1,5 @@
+import 'dart:ffi';
+
 void main(){
   var numberList = [10,20,30,40];
   for(int i = 0; i<numberList.length; i++){
@@ -15,4 +17,7 @@ void main(){
     'roll' : '01'
   };
   print(student);
+
+  Set<int> studentSet = {10,20,30,40,50};
+    print(studentSet);
 }
